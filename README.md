@@ -58,12 +58,12 @@ Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan 
    -> cp .env.example .env <br>
    <br>
    Kemudian buka file .env dan atur konfigurasi database sesuai lokalmu : <br>
-   DB_CONNECTION=mysql
-   DB_HOST=127.0.0.1
-   DB_PORT=3306
-   DB_DATABASE=memberbalance
-   DB_USERNAME=root
-   DB_PASSWORD=
+   DB_CONNECTION=mysql <br>
+   DB_HOST=127.0.0.1 <br>
+   DB_PORT=3306 <br>
+   DB_DATABASE=memberbalance <br>
+   DB_USERNAME=root <br>
+   DB_PASSWORD= <br>
 
 4. Generate Application Key <br>
    Jalankan perintah berikut agar Laravel membuat APP_KEY : <br>
