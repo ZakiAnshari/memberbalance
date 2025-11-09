@@ -73,6 +73,9 @@ Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan 
    -> php artisan migrate:fresh --seed
 
 6. Jalankan Project Laravel <br>
-Untuk menjalankan project di server lokal Laravel : <br>
-->php artisan serve
+    Untuk menjalankan project di server lokal Laravel : <br>
+    ->php artisan serve
 
+7. Masukkan email dan Password : <br>
+   -> email : admin@gmail.com
+   -> password : 123
