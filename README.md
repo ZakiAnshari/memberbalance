@@ -21,7 +21,7 @@ Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan 
 ## Screenshot (Opsional)
 
 <p align="center">
-  ![alt text](https://github.com/ZakiAnshari/memberbalance/blob/main/public/1.png?raw=true)
+  <img src="https://github.com/ZakiAnshari/memberbalance/blob/main/public/1.png?raw=true" alt="Screenshot MemberBalance" width="500"/>
 </p>
 
 > Ganti URL placeholder di atas dengan tangkapan layar aplikasi nyata.
