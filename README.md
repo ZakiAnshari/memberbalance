@@ -49,3 +49,7 @@ Clone repository ke lokal:
 ```bash
 git clone https://github.com/ZakiAnshari/memberbalance.git
 cd memberbalance
+
+```bash
+git clone https://github.com/ZakiAnshari/memberbalance.git
+cd memberbalance
