@@ -1,10 +1,6 @@
 # MemberBalance
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
-</p>
-
-<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/laravel-11-red" alt="Laravel 11"></a>
   <a href="#"><img src="https://img.shields.io/badge/php-8.2-blue" alt="PHP Version"></a>
@@ -25,8 +21,7 @@ Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan 
 ## Screenshot (Opsional)
 
 <p align="center">
-  <img src="![Uploading image.png…]()
-" alt="MemberBalance Screenshot" width="800">
+  ![alt text](https://github.com/ZakiAnshari/re/blob/main/1.png?raw=true)
 </p>
 
 > Ganti URL placeholder di atas dengan tangkapan layar aplikasi nyata.
