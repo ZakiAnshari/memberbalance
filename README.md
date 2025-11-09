@@ -43,13 +43,8 @@ Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan 
 ---
 
 ## Cara Instalasi & Menjalankan Aplikasi
+1. Clone Repository
+   Clone project dari GitHub ke komputer lokal :
+   git clone https://github.com/ZakiAnshari/memberbalance.git
+   cd memberbalance
 
-Clone repository ke lokal:
-
-```bash
-git clone https://github.com/ZakiAnshari/memberbalance.git
-cd memberbalance
-
-```bash
-git clone https://github.com/ZakiAnshari/memberbalance.git
-cd memberbalance
