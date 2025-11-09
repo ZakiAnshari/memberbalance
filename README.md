@@ -16,21 +16,17 @@
 
 ## Tentang MemberBalance
 
-**MemberBalance** adalah aplikasi sederhana untuk **mencatat saldo member**. Aplikasi ini memungkinkan pengguna untuk:
+**MemberBalance** adalah aplikasi sederhana untuk **mencatat saldo member**. Aplikasi ini memungkinkan pengguna untuk menambahkan member baru, melakukan transaksi **top-up** maupun pengurangan saldo, menampilkan **riwayat transaksi**, dan melihat **detail saldo** tiap member secara lengkap.  
 
-- Menambahkan member baru  
-- Melakukan transaksi **top-up** maupun pengurangan saldo  
-- Menampilkan **riwayat transaksi**  
-- Melihat **detail saldo** tiap member secara lengkap  
-
-Aplikasi ini dibuat menggunakan **Laravel 11** dengan **MySQL** sebagai database, dan tampilan antarmukanya menggunakan **Bootstrap** agar lebih responsif dan mudah digunakan.  
+Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan menggunakan **Bootstrap** untuk tampilan agar responsif dan mudah digunakan.  
 
 ---
 
-## Screenshot
+## Screenshot (Opsional)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Screenshot+MemberBalance" alt="MemberBalance Screenshot" width="800">
+  <img src="![Uploading image.png…]()
+" alt="MemberBalance Screenshot" width="800">
 </p>
 
 > Ganti URL placeholder di atas dengan tangkapan layar aplikasi nyata.
@@ -39,18 +35,16 @@ Aplikasi ini dibuat menggunakan **Laravel 11** dengan **MySQL** sebagai database
 
 ## Teknologi
 
-- **Backend:** Laravel 11 (PHP Framework)  
+- **Backend:** Laravel 11  
 - **Database:** MySQL  
 - **Frontend:** Bootstrap  
 - **Template Engine:** Blade (Laravel)  
 
 ---
 
-## Cara Instalasi
+## Cara Instalasi & Menjalankan Aplikasi
 
-Ikuti langkah-langkah berikut untuk menjalankan MemberBalance di lokal:
-
-### 1. Clone repository
+Clone repository ke lokal:
 
 ```bash
 git clone https://github.com/ZakiAnshari/memberbalance.git
