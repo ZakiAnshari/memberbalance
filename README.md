@@ -77,5 +77,5 @@ Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan 
     ->php artisan serve
 
 7. Masukkan email dan Password : <br>
-   -> email : admin@gmail.com
+   -> email : admin@gmail.com <br>
    -> password : 123
