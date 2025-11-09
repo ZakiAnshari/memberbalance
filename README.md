@@ -46,5 +46,32 @@ Aplikasi ini dibuat menggunakan **Laravel 11**, **MySQL** sebagai database, dan 
 1. Clone Repository
    Clone project dari GitHub ke komputer lokal : <br>
    -> git clone https://github.com/ZakiAnshari/memberbalance.git <br>
-   -> cd memberbalance
+   -> cd memberbalance <br>
+   
+2. Install Dependencies
+   Pastikan sudah terinstall PHP 8.2 dan Composer : <br>
+   -> composer install <br>
+   -> composer update <br>
+
+3. Setup Environment
+   ubah atau salin file .env.example menjadi .env : <br>
+   -> cp .env.example .env <br>
+   Kemudian buka file .env dan atur konfigurasi database sesuai lokalmu : <br>
+   DB_CONNECTION=mysql
+   DB_HOST=127.0.0.1
+   DB_PORT=3306
+   DB_DATABASE=memberbalance
+   DB_USERNAME=root
+   DB_PASSWORD=
+
+4. Generate Application Key
+   Jalankan perintah berikut agar Laravel membuat APP_KEY : <br>
+   ->php artisan key:generate
+
+5. Jalankan Migration & Seed (Opsional)
+   -> php artisan migrate:fresh --seed
+
+6. Jalankan Project Laravel
+Untuk menjalankan project di server lokal Laravel:
+->php artisan serve
 
